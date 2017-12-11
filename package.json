@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "got": "^8.0.1",
+    "jquery": "^3.2.1",
+    "node-jsdom": "^3.1.5",
+    "q": "^1.5.1",
+    "stringify-object": "^3.2.1",
+    "valid-url": "^1.0.9",
+    "yargs": "^10.0.3"
+  }
+}
